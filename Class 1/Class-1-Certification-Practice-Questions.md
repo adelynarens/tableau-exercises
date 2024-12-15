@@ -100,7 +100,7 @@ B. A discrete header is created by default
 C. Nothing is displayed unless a dimension is also added
 ##
 
-**11. Which chart would best visualize the following scenario?****
+**11. Which chart would best visualize the following scenario?**
 
 Number of Taylor Swift concerts by country 
 
@@ -146,7 +146,7 @@ C. Line Chart
 
 **15. Which chart would best visualize the following scenario?**
 
-Wake Tech student enrollment by semester
+Wake Tech student enrollment by grade level (Freshman, Sophomore)
 
 A. Bar Chart
 
