@@ -11,7 +11,7 @@
 
 2. Create a line chart that shows `Orders (Count)` by month.
     - Format the dates to abbreviation and change the orientation to horizontal
-    - Use the descrete version of months
+    - Use the discrete version of months
 
      ![Exercise 2](/images/exercise%201/1.2.png)
      ##
