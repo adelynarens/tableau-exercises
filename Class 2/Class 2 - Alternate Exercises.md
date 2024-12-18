@@ -123,7 +123,7 @@ The set should indicate for each record if the number of orders is in the top 10
 ![Exercise 2](/images/exercise%202/2.10.png)
 
 ## Part IV - Data Analysis
-1. Create a bar chart that shows the top 10 most profitable customers sorted by descending profit.**
+1. Create a bar chart that shows the top 10 most profitable customers sorted by descending profit.
 Hint: Use the `Top 10 most profitable customers` set as a filter.
 
 * Format the axis to currency
