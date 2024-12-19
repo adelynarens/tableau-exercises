@@ -7,10 +7,12 @@ These exercises are repeats from the first class, but will give you an opportuni
 1. Change the type of `Item ID`, `Customer ID`, and `Order ID` from Number to String.
 ##
 
-2. Split the `Customer Name` field into a `Customer First Name` and `Customer Last Name` field. Hide the original `Customer Name` field. 
+~~2. Split the `Customer Name` field into a `Customer First Name` and `Customer Last Name` field. Hide the original `Customer Name` field.~~
+
+Method used in previous class is not available in Tableau Public.
 ##
 
-3. Create a bar chart showing the total `Sales` by `Department` and `Region`.
+3. Create a bar chart showing the average `Sales` by `Department` and `Region`.
 * Add data labels to the bar
 * Format the y-axis to currency
 
@@ -149,7 +151,7 @@ Hint: Use Show Me
 ![Exercise 2](/images/exercise%202/2.14.png)
 ##
 
-4. Create a highlight table to visualize average `Profit Margin` by `Order Priority`.** Hint: Use Show Me.
+4. Create a highlight table to visualize average `Profit Margin` by `Order Priority`. Hint: Use Show Me.
 
 * Sort the `Order Priority` labels in order of priority.
 
@@ -164,17 +166,8 @@ Note: When we created the `Profit Margin` field in Part I, Tableau correctly inf
 
 5. Put everything together into a dashboard.
 
-Use your best creative judgement to arrange the visualizations created in Part IV into a dashboard. Include the following: 
+Use your best creative judgement to arrange the visualizations created in Part IV into a dashboard.
 
-* Create a vertical container covering the entire view.
-
-* Drag a text container to the top of the dashboard. Add the Title `Class 2: Superstore Sales Insights`. Set the font size to 28, bold the text, and change the text color to black.
-
-* Change the background color of the dashboard to light grey.
-
-* Add Outer Padding of 10 to all containers 
-
-* Hide the legend for the `Frequent Customer Profitability` and `Profit Margin by Priority` visualizations. 
 
 
 
